@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def normalize_adj(a_adj):
     i = 0
     for adj in a_adj:
