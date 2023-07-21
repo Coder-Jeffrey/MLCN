@@ -4,6 +4,7 @@ from Dataloader import load_data
 from Train import train_model, test_model
 import warnings
 
+
 warnings.filterwarnings('ignore')
 
 def classification(epochs, batch_size, learning_rate, weight_decay):
