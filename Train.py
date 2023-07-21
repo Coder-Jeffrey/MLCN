@@ -3,6 +3,7 @@ from utils import precision_k, Ndcg_k, get_metrics
 import numpy as np
 from tqdm import tqdm
 
+
 def cosine_similarity(x, y):
     '''
     Cosine Similarity of two tensors
