@@ -3,7 +3,6 @@ import torch.utils.data as data_utils
 import numpy as np
 from utils import generate_adj, gen_A, gen_adj
 
-
 def load_data(batch_size=32):
     train_input_ids = np.load('./Data/AAPD/train_input_ids.npy')
     train_input_mask = np.load('./Data/AAPD/train_input_mask.npy')
