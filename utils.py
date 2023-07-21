@@ -3,6 +3,7 @@ from sklearn import metrics
 from tqdm import tqdm
 import torch
 
+
 def precision_k(true_mat, score_mat, k):
     p = np.zeros((k, 1))
     rank_mat = np.argsort(score_mat)
