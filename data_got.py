@@ -5,6 +5,7 @@ from utils import clean_str
 from tqdm import tqdm
 data_path = 'AAPD'
 
+
 def load_data_and_labels(data):
     x_text = [doc['text'] for doc in data]
 
