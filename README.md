@@ -1,5 +1,5 @@
 # MLCN 
-The architecture of MLCN
+## Architecture
 ![image](https://github.com/Coder-Jeffrey/MLCN/assets/76551880/ec3f8fdd-390c-4e88-b2d3-1e322fcc428f)
 
 ## Environment
