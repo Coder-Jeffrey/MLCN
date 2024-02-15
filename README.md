@@ -21,4 +21,4 @@ Run classification.py
 ## Result
 ![image](https://github.com/Coder-Jeffrey/MLCN/assets/76551880/b553a4b4-2190-4277-9f2e-f77b48a74839)
 
-The result demonstrates the following. **MLCN** achieves comparable performance, compared with LDGN, and beats all other models, on both datasets. On AAPD, **MLCN** outperforms LDGN on two metrics; while on RCV1, **MLCN** shows superiority on four indicators, e.g., the improvement on P@3 even reaches 1.15%., which is quite remarkable. The reason for better performance on RCV1 possibly lies in the fact that RCV1 has more informative labels than AAPD, which facilitates our model's learning.
+The result demonstrates the following. **MLCN** achieves comparable performance, compared with LDGN, and beats all other models, on both datasets. On AAPD, **MLCN** outperforms LDGN on two metrics; while on RCV1, **MLCN** shows superiority on four indicators, e.g., the improvement on P@3 even reaches 1.15%, which is quite remarkable. The reason for better performance on RCV1 possibly lies in the fact that RCV1 has more informative labels than AAPD, which facilitates our model's learning.
