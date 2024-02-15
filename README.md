@@ -12,4 +12,6 @@ tqdm == 4.6.64
 
 ```
 ## Preprocess
-Our method is to put the text and label tokens in the same space and run dataset.py to get the processed data.
+
+Our method is to put the text and label tokens in the same space and run **dataset.py** to get the processed data.
+
