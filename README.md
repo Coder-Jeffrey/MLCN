@@ -12,8 +12,11 @@ tqdm == 4.6.64
 ```
 ## Preprocess
 You can download the datasets at:
+
 Our method is to put the text and label tokens in the same space and run **dataset.py** to get the processed data.
 
 ## Running
+Run classification.py
 
+## Result
 
