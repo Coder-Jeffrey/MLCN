@@ -16,7 +16,7 @@ You can download the datasets at:
 Our method is to put the text and label tokens in the same space and run **dataset.py** to get the processed data.
 
 ## Running
-Run classification.py
+Run **classification.py**
 
 ## Result
 ![image](https://github.com/Coder-Jeffrey/MLCN/assets/76551880/b553a4b4-2190-4277-9f2e-f77b48a74839)
