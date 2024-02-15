@@ -2,7 +2,7 @@
 ## Architecture
 ![image](https://github.com/Coder-Jeffrey/MLCN/assets/76551880/ec3f8fdd-390c-4e88-b2d3-1e322fcc428f)
 
-## Environment
+## Main Environment
 ```
 torch == 1.7.1
 python == 3.6.13
