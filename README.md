@@ -11,7 +11,9 @@ numpy == 1.19.5
 tqdm == 4.6.64
 ```
 ## Preprocess
-You can download the datasets at:
+You can download the datasets at: 
+AAPD:https://git.uwaterloo.ca/jimmylin/Castor-data/-/tree/master/datasets/AAPD/data
+RCV1:https://scikit-learn.org/0.18/datasets/rcv1.html
 
 Our method is to put the text and label tokens in the same space and run **dataset.py** to get the processed data.
 
